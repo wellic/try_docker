@@ -1,5 +1,0 @@
-Install docker composer
-
-sudo apt-get install python-pip
-sudo pip install -U docker-compose
-
